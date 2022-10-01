@@ -9,4 +9,5 @@ public class Main {
         Person artem = new Person("Артем", 27, "Москва", "Директор по развитию бизнеса");
         artem.hi();
     }
+    //
 }
